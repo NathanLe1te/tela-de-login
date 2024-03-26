@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+}
+h1{
+    padding-top: 0px 0px 50px;
+    color: #403866;
+}
+.input100{
+    padding: 0px 20px 0px 38px;
+    height: 62px;
+    color:black;
+}
+#enviar{
+    background-color:#827ffe;
+    padding: 0px 20px 0px 20px;
+    cursor: pointer;
+    border-style: none;
+    color: #fff;
+    text-transform: uppercase;
+    height: 62px;
+    font-size: 16px;
+    border-radius: 3px;
+    
+    display: inline-block;
+
+}
+
